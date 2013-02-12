@@ -1,0 +1,5 @@
+name: namegen
+version: 0.0.1
+author: Ole Martin Gjersvik
+dependencies:
+  browser: any
