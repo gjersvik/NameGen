@@ -1,6 +1,8 @@
 library boys;
 
-var boy = {
+int boy_length = 2219705;
+
+Map<String,int> boy = {
   'Jan' : 50065,
   'Per' : 39958,
   'Bjørn' : 39175,
