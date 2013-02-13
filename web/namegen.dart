@@ -1,5 +1,6 @@
 import 'boy.dart';
 import 'girl.dart';
+import 'lastname.dart';
 import 'dart:math';
 
 String getRandom(Map names,int sum){
@@ -18,7 +19,8 @@ String getRandom(Map names,int sum){
 }
 
 main(){
-  var boyname = getRandom(boy,boy_length);
-  var girlname = getRandom(girl,girl_length);
-  print('$boyname and $girlname ');
+  var boyname = getRandom(boy, boy_length);
+  var girlname = getRandom(girl, girl_length);
+  var lastname = getRandom(last, last_length);
+  print('$boyname and $girlname $lastname');
 }
