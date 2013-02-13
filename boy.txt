@@ -1,750 +1,750 @@
-﻿50065:Jan
-90023:Per
-129198:Bjørn
-161197:Ole
-191584:Lars
-220418:Kjell
-246529:Knut
-272370:Arne
-298185:Svein
-321966:Thomas
-344790:Hans
-367310:Geir
-389460:Tor
-411520:Morten
-433161:Terje
-454733:Odd
-475539:Erik
-496281:Martin
-516523:Andreas
-536464:John
-556228:Anders
-575454:Rune
-592900:Trond
-609586:Tore
-626035:Daniel
-642176:Jon
-658137:Kristian
-673579:Marius
-688985:Tom
-704388:Harald
-719773:Olav
-735084:Stian
-750078:Magnus
-764523:Gunnar
-778771:Rolf
-792959:Øyvind
-807111:Espen
-821100:Leif
-834955:Henrik
-848683:Fredrik
-862143:Nils
-875593:Christian
-888862:Eirik
-901856:Helge
-914827:Jonas
-927100:Håkon
-939080:Einar
-950718:Steinar
-962001:Frode
-973255:Øystein
-984199:Jørgen
-994700:Arild
-1005127:Kjetil
-1015533:Kåre
-1025727:Alexander
-1035894:Petter
-1046033:Frank
-1056091:Stein
-1065855:Johan
-1075613:Kristoffer
-1085305:Dag
-1094870:Mathias
-1104428:Ivar
-1113968:Stig
-1123440:Vidar
-1132861:Kenneth
-1142172:Ola
-1151462:Tommy
-1160747:Pål
-1169898:Magne
-1179008:Karl
-1188111:Sverre
-1197189:Håvard
-1206249:Roger
-1215138:Emil
-1223797:Egil
-1232234:Simen
-1240636:Alf
-1249027:Eivind
-1257333:Sondre
-1265482:Robert
-1273498:Adrian
-1281510:Jens
-1289508:Kim
-1297478:Vegard
-1305285:Thor
-1312964:Roy
-1320521:Sebastian
-1328073:Sander
-1335545:Johannes
-1343002:Tobias
-1350309:Sindre
-1357557:Torbjørn
-1364718:Erling
-1371873:Roar
-1379016:Finn
-1386052:Asbjørn
-1392947:Sigurd
-1399797:Reidar
-1406571:Joakim
-1413270:Markus
-1419949:Jarle
-1426566:Mats
-1433176:Erlend
-1439633:Aleksander
-1445983:Andre
-1452306:Even
-1458524:Jostein
-1464723:Ove
-1470894:Benjamin
-1476933:Arvid
-1482896:Jørn
-1488859:Bjarne
-1494664:David
-1500444:Ronny
-1506183:Atle
-1511828:Trygve
-1517419:William
-1522819:Lasse
-1528193:Henning
-1533554:Elias
-1538783:Oddvar
-1543910:Inge
-1548913:Kai
-1553853:Bjørnar
-1558700:Ragnar
-1563529:Simon
-1568350:Paul
-1573166:Marcus
-1577923:Christoffer
-1582623:Johnny
-1587323:Jakob
-1592015:Robin
-1596695:Oliver
-1601250:Arve
-1605782:Peter
-1610183:Michael
-1614483:Åge
-1618681:Sven
-1622784:Mads
-1626885:Torstein
-1630862:Øivind
-1634753:Audun
-1638615:Bård
-1642468:Glenn
-1646299:Peder
-1650097:Carl
-1653885:Isak
-1657664:Steffen
-1661403:Ståle
-1665123:Joachim
-1668761:Oskar
-1672395:Mohammad
-1676027:Kurt
-1679630:Ørjan
-1683228:Kevin
-1686740:Herman
-1690192:Torgeir
-1693620:Runar
-1696970:Nikolai
-1700317:Aksel
-1703615:Roald
-1706900:Arnt
-1710183:Sigmund
-1713413:Noah
-1716580:Birger
-1719706:Truls
-1722821:Richard
-1725909:Bernt
-1728984:Tormod
-1732025:Halvor
-1735049:Raymond
-1738038:Ruben
-1741005:Willy
-1743932:Christer
-1746850:Ali
-1749743:Vetle
-1752587:Jonathan
-1755422:Christopher
-1758245:Arnfinn
-1761042:Patrick
-1763835:Endre
-1766593:Jonny
-1769341:Dagfinn
-1772077:Tomas
-1774797:Trym
-1777475:Magnar
-1780127:Oddbjørn
-1782770:Mikkel
-1785399:Cato
-1788010:Harry
-1790608:Kasper
-1793196:Julian
-1795774:Ketil
-1798340:Adam
-1800904:Oscar
-1803468:Jacob
-1806015:Filip
-1808536:Mikael
-1811038:Sivert
-1813500:Kent
-1815961:Haakon
-1818418:Leon
-1820858:Lucas
-1823295:Ulf
-1825722:Olaf
-1828139:Jesper
-1830543:Mohamed
-1832938:Krzysztof
-1835318:Piotr
-1837693:Nicolai
-1840063:Edvard
-1842415:Lukas
-1844741:Are
-1847061:Yngve
-1849366:Amund
-1851631:Bent
-1853890:Georg
-1856126:Philip
-1858344:Gabriel
-1860560:Dan
-1862774:Theodor
-1864987:Tomasz
-1867174:Brage
-1869351:Dennis
-1871483:Jo
-1873613:Iver
-1875740:Preben
-1877854:Mohammed
-1879955:Ahmed
-1882037:Victor
-1884107:Henry
-1886176:Bjarte
-1888240:Odin
-1890289:Åsmund
-1892324:Eskil
-1894303:Otto
-1896281:Sigbjørn
-1898233:Gaute
-1900162:Bendik
-1902080:Ingar
-1903994:Ottar
-1905871:Stefan
-1907744:Børge
-1909616:Asle
-1911488:Anton
-1913358:Viktor
-1915214:Karsten
-1917002:Niklas
-1918784:Fred
-1920540:Bengt
-1922293:Gustav
-1924045:Ulrik
-1925791:Sveinung
-1927528:Andrzej
-1929233:Pawel
-1930931:Marcin
-1932627:Tony
-1934275:Alfred
-1935916:Sten
-1937532:Vebjørn
-1939144:Jarl
-1940752:Snorre
-1942329:Ernst
-1943904:Jim
-1945466:Hallvard
-1947027:Tord
-1948585:Rasmus
-1950136:Thorbjørn
-1951666:Ken
-1953192:Marek
-1954715:Samuel
-1956238:Aage
-1957743:Vegar
-1959248:Sigve
-1960753:Oddmund
-1962254:Felix
-1963749:Casper
-1965240:Halvard
-1966724:August
-1968191:Axel
-1969656:Remi
-1971116:Grzegorz
-1972560:Viggo
-1973992:Ludvig
-1975423:Leo
-1976846:Ivan
-1978259:Idar
-1979663:Arthur
-1981064:Aron
-1982464:Chris
-1983863:Leander
-1985234:Torleif
-1986595:Edvin
-1987953:Joar
-1989297:Ingvar
-1990640:Mariusz
-1991982:Thore
-1993317:Michal
-1994646:Liam
-1995970:Gjermund
-1997280:Max
-1998584:Leiv
-1999880:Gard
-2001174:Hugo
-2002459:Sjur
-2003733:Freddy
-2005006:Albert
-2006274:Muhammad
-2007541:Aslak
-2008807:Dariusz
-2010069:Theo
-2011319:Lukasz
-2012568:Kjartan
-2013801:Gisle
-2015016:Didrik
-2016221:Svenn
-2017409:Linus
-2018579:Tim
-2019736:Asgeir
-2020876:Matias
-2022015:Gøran
-2023143:Torfinn
-2024268:Kolbjørn
-2025379:Arnstein
-2026477:Nicholas
-2027572:Jan-erik
-2028658:Gudmund
-2029735:Ronald
-2030810:Konrad
-2031876:Eric
-2032938:Jone
-2033998:Øistein
-2035056:Birk
-2036111:Omar
-2037154:Børre
-2038191:Hassan
-2039218:Artur
-2040244:Rafal
-2041266:Edgar
-2042286:Arnold
-2043305:Jacek
-2044322:Ibrahim
-2045324:Fabian
-2046325:Ådne
-2047305:Svend
-2048269:Agnar
-2049226:Paal
-2050181:Brede
-2051130:Hallgeir
-2052063:Kyrre
-2052987:Yngvar
-2053905:Heine
-2054820:Mikal
-2055732:Wojciech
-2056637:Zbigniew
-2057525:Thorleif
-2058413:Teodor
-2059301:Tarjei
-2060171:Kay
-2061037:Torjus
-2061900:Ludvik
-2062762:Jaroslaw
-2063623:Erland
-2064481:Klaus
-2065336:Mustafa
-2066189:Kristen
-2067042:Jøran
-2067893:Jack
-2068742:Vemund
-2069589:Jonatan
-2070428:Rene
-2071262:Slawomir
-2072088:Ask
-2072909:Karstein
-2073713:Storm
-2074514:Abdul
-2075313:Wilhelm
-2076086:Bo
-2076857:Nicolay
-2077621:Krister
-2078380:Ahmad
-2079135:Ingvald
-2079888:Amir
-2080636:Eilif
-2081382:Matheo
-2082119:Oddgeir
-2082854:Miroslaw
-2083588:Bernhard
-2084304:Guttorm
-2085016:Werner
-2085728:Hermann
-2086440:Brian
-2087151:Jakub
-2087857:Jose
-2088558:James
-2089247:Sturla
-2089935:Roman
-2090622:Viljar
-2091308:Nicklas
-2091989:Maciej
-2092666:Patrik
-2093343:Arnulf
-2094019:Stanislaw
-2094687:Edward
-2095350:Ragnvald
-2096011:Kaare
-2096669:Nicolas
-2097327:Charles
-2097979:Norvald
-2098631:Brynjar
-2099282:Morgan
-2099920:Mattis
-2100557:Toralf
-2101194:Tage
-2101826:Niels
-2102458:Janusz
-2103086:Mark
-2103708:Alex
-2104328:Ingolf
-2104945:Torgrim
-2105557:Njål
-2106168:Allan
-2106777:Torkel
-2107382:Jimmy
-2107987:Jahn
-2108589:Rolv
-2109184:Abdi
-2109776:Kamil
-2110368:Edmund
-2110956:Mateusz
-2111541:Alan
-2112124:Eldar
-2112706:Carsten
-2113285:Walter
-2113858:Said
-2114425:Abdirahman
-2114990:Phillip
-2115550:Przemyslaw
-2116109:Marco
-2116668:Josef
-2117227:Andrew
-2117777:Fritz
-2118323:Steven
-2118866:Arkadiusz
-2119408:Hjalmar
-2119949:Stephen
-2120489:Tron
-2121029:Syver
-2121569:Jerzy
-2122107:Damian
-2122638:Waldemar
-2123169:Hilmar
-2123699:Claus
-2124222:Juan
-2124744:Nathaniel
-2125266:Ismail
-2125786:Jørund
-2126303:Rudi
-2126813:Rikard
-2127322:Håvar
-2127830:Malvin
-2128333:Stephan
-2128836:Carlos
-2129338:Lennart
-2129839:Levi
-2130339:Frederik
-2130839:Dawid
-2131338:Lars-erik
-2131835:Torleiv
-2132330:Ian
-2132824:Jozef
-2133314:Mehmet
-2133803:Ben
-2134291:Mario
-2134777:Thorstein
-2135262:Søren
-2135746:Ryszard
-2136228:Torger
-2136710:Khalid
-2137188:Elling
-2137663:Villy
-2138134:Sølve
-2138604:Mindaugas
-2139071:Jann
-2139536:Scott
-2140001:Hussein
-2140465:Luis
-2140929:Hermod
-2141393:Darius
-2141856:Leonard
-2142316:Bror
-2142776:Bastian
-2143230:Julius
-2143683:Sean
-2144134:Adnan
-2144584:Joel
-2145033:Abdullah
-2145479:Torje
-2145924:Abdullahi
-2146368:Ferdinand
-2146809:Gerhard
-2147248:Ole-martin
-2147686:Wiggo
-2148124:Fridtjof
-2148560:Hamza
-2148995:Mattias
-2149430:Eskild
-2149862:Torben
-2150290:Osman
-2150718:Joseph
-2151143:Syed
-2151564:Anthony
-2151984:Hasan
-2152403:Olve
-2152821:Antonio
-2153238:Sture
-2153654:Niclas
-2154069:Andrius
-2154480:Leszek
-2154888:Ørnulf
-2155296:Thorvald
-2155703:Radoslaw
-2156110:Karol
-2156515:Wieslaw
-2156920:Olai
-2157324:Vincent
-2157726:Jean
-2158126:Gunvald
-2158522:Eigil
-2158917:Esben
-2159312:Baard
-2159706:Remy
-2160100:Eyvind
-2160492:Oddvin
-2160881:Mons
-2161269:Tadeusz
-2161654:Yusuf
-2162039:Samir
-2162423:George
-2162806:Vladimir
-2163189:Marian
-2163570:Steve
-2163949:Ingebrigt
-2164327:Bartosz
-2164701:Rudolf
-2165075:Bogdan
-2165447:Patryk
-2165819:Igor
-2166190:Joacim
-2166560:Johann
-2166930:Hans-petter
-2167299:Hogne
-2167664:Ingve
-2168028:Alv
-2168391:Nikolas
-2168753:Eilert
-2169111:Arian
-2169468:Alvin
-2169824:Kaj
-2170178:Ansgar
-2170529:Lauritz
-2170876:Holger
-2171220:Ole-kristian
-2171564:Eystein
-2171907:Rino
-2172249:Torkil
-2172591:Osvald
-2172933:Haldor
-2173271:Torvald
-2173608:Kim-andre
-2173944:Ronnie
-2174280:Bilal
-2174615:Marcel
-2174944:Thanh
-2175271:Mahamed
-2175598:Kacper
-2175924:Andres
-2176249:Milan
-2176574:Colin
-2176899:Arturas
-2177222:Martinus
-2177545:Emilian
-2177867:Dominik
-2178188:Flemming
-2178509:Denis
-2178825:Laurits
-2179140:Fillip
-2179455:Aasmund
-2179766:Tom-erik
-2180076:Severin
-2180386:Hamid
-2180696:Gjert
-2181005:Tonny
-2181314:Brynjulf
-2181622:Tarald
-2181930:Saulius
-2182237:Sigvald
-2182544:Hallstein
-2182850:Sam
-2183154:Szymon
-2183458:Svein-erik
-2183762:Halfdan
-2184065:Torkild
-2184368:Ahmet
-2184670:Gorm
-2184970:Matthew
-2185270:Fredrick
-2185568:Normann
-2185863:Maximilian
-2186158:Kennet
-2186453:Jamal
-2186747:Bartlomiej
-2187039:Imre
-2187327:Vytautas
-2187615:Per-arne
-2187903:Narve
-2188190:Tor-erik
-2188476:Marko
-2188761:Tristan
-2189046:Skjalg
-2189329:Benny
-2189609:Bjørn-erik
-2189887:Kestutis
-2190165:Kato
-2190443:Arunas
-2190720:Manuel
-2190997:Louis
-2191274:Krystian
-2191550:Jarand
-2191826:Henryk
-2192101:Nikolay
-2192376:Minh
-2192650:Janis
-2192923:Sami
-2193196:Gudbrand
-2193468:Jomar
-2193740:Jardar
-2194011:Frits
-2194282:Edwin
-2194552:Borgar
-2194820:Jorge
-2195088:Annar
-2195355:Marvin
-2195620:Jonn
-2195883:Sigfred
-2196146:Mantas
-2196409:Asmund
-2196671:Edin
-2196933:Bertil
-2197194:Kazimierz
-2197455:Amin
-2197715:Matthias
-2197973:Isac
-2198229:Mohamad
-2198484:Rafael
-2198738:Aaron
-2198990:Emrik
-2199241:Muhammed
-2199491:Tor-arne
-2199740:Loke
-2199988:Ireneusz
-2200234:Ole-christian
-2200479:Torodd
-2200724:Ingmar
-2200969:Donatas
-2201214:Bjørge
-2201457:Imran
-2201700:Frithjof
-2201942:Reza
-2202184:Evald
-2202426:Cornelius
-2202668:Conrad
-2202909:Roland
-2203150:Melvin
-2203391:Jeppe
-2203631:Jørg
-2203871:Francisco
-2204110:Yasin
-2204349:Van
-2204588:Mehdi
-2204825:Mathis
-2205062:Elliot
-2205299:Dani
-2205536:Balder
-2205771:Ole-petter
-2206006:Oddleif
-2206241:Mahmoud
-2206475:Nerijus
-2206709:Miguel
-2206943:Isaac
-2207175:Timothy
-2207407:Lorentz
-2207638:Sylwester
-2207869:Emanuel
-2208099:Emre
-2208329:Emir
-2208559:Egidijus
-2208789:Claes
-2209017:Troy
-2209245:Ted
-2209472:Pedro
-2209699:Audrius
-2209925:Luca
-2210150:Emmanuel
-2210374:Rainer
-2210598:Karim
-2210822:Eddie
-2211046:Abraham
-2211269:Thormod
-2211492:Hauk
-2211714:Christen
-2211936:Arman
-2212157:Linas
-2212378:Cristian
-2212598:Wiktor
-2212818:Vilhelm
-2213038:Per-erik
-2213258:Pavel
-2213477:Aleksandar
-2213693:Gert
-2213908:Joshua
-2214123:Ari
-2214338:Abbas
-2214552:Norbert
-2214765:Noa
-2214978:Glen
-2215190:Ole-jørgen
-2215402:Boguslaw
-2215613:Sigvart
-2215823:Thoralf
-2216033:Kornelius
-2216242:Usman
-2216450:Arnljot
-2216657:Jonah
-2216863:Haavard
-2217068:Widar
-2217273:Rolandas
-2217477:Ricardo
-2217681:Ralf
-2217885:Mahad
-2218089:Frans
-2218292:Mika
-2218495:Kenny
-2218698:Helmer
-2218901:Goran
-2219103:Tønnes
-2219305:Steffan
-2219505:Øyvin
-2219705:Mike
+﻿Jan	50065
+Per	39958
+Bjørn	39175
+Ole	31999
+Lars	30387
+Kjell	28834
+Knut	26111
+Arne	25841
+Svein	25815
+Thomas	23781
+Hans	22824
+Geir	22520
+Tor	22150
+Morten	22060
+Terje	21641
+Odd	21572
+Erik	20806
+Martin	20742
+Andreas	20242
+John	19941
+Anders	19764
+Rune	19226
+Trond	17446
+Tore	16686
+Daniel	16449
+Jon	16141
+Kristian	15961
+Marius	15442
+Tom	15406
+Harald	15403
+Olav	15385
+Stian	15311
+Magnus	14994
+Gunnar	14445
+Rolf	14248
+Øyvind	14188
+Espen	14152
+Leif	13989
+Henrik	13855
+Fredrik	13728
+Nils	13460
+Christian	13450
+Eirik	13269
+Helge	12994
+Jonas	12971
+Håkon	12273
+Einar	11980
+Steinar	11638
+Frode	11283
+Øystein	11254
+Jørgen	10944
+Arild	10501
+Kjetil	10427
+Kåre	10406
+Alexander	10194
+Petter	10167
+Frank	10139
+Stein	10058
+Johan	9764
+Kristoffer	9758
+Dag	9692
+Mathias	9565
+Ivar	9558
+Stig	9540
+Vidar	9472
+Kenneth	9421
+Ola	9311
+Tommy	9290
+Pål	9285
+Magne	9151
+Karl	9110
+Sverre	9103
+Håvard	9078
+Roger	9060
+Emil	8889
+Egil	8659
+Simen	8437
+Alf	8402
+Eivind	8391
+Sondre	8306
+Robert	8149
+Adrian	8016
+Jens	8012
+Kim	7998
+Vegard	7970
+Thor	7807
+Roy	7679
+Sebastian	7557
+Sander	7552
+Johannes	7472
+Tobias	7457
+Sindre	7307
+Torbjørn	7248
+Erling	7161
+Roar	7155
+Finn	7143
+Asbjørn	7036
+Sigurd	6895
+Reidar	6850
+Joakim	6774
+Markus	6699
+Jarle	6679
+Mats	6617
+Erlend	6610
+Aleksander	6457
+Andre	6350
+Even	6323
+Jostein	6218
+Ove	6199
+Benjamin	6171
+Arvid	6039
+Jørn	5963
+Bjarne	5963
+David	5805
+Ronny	5780
+Atle	5739
+Trygve	5645
+William	5591
+Lasse	5400
+Henning	5374
+Elias	5361
+Oddvar	5229
+Inge	5127
+Kai	5003
+Bjørnar	4940
+Ragnar	4847
+Simon	4829
+Paul	4821
+Marcus	4816
+Christoffer	4757
+Johnny	4700
+Jakob	4700
+Robin	4692
+Oliver	4680
+Arve	4555
+Peter	4532
+Michael	4401
+Åge	4300
+Sven	4198
+Mads	4103
+Torstein	4101
+Øivind	3977
+Audun	3891
+Bård	3862
+Glenn	3853
+Peder	3831
+Carl	3798
+Isak	3788
+Steffen	3779
+Ståle	3739
+Joachim	3720
+Oskar	3638
+Mohammad	3634
+Kurt	3632
+Ørjan	3603
+Kevin	3598
+Herman	3512
+Torgeir	3452
+Runar	3428
+Nikolai	3350
+Aksel	3347
+Roald	3298
+Arnt	3285
+Sigmund	3283
+Noah	3230
+Birger	3167
+Truls	3126
+Richard	3115
+Bernt	3088
+Tormod	3075
+Halvor	3041
+Raymond	3024
+Ruben	2989
+Willy	2967
+Christer	2927
+Ali	2918
+Vetle	2893
+Jonathan	2844
+Christopher	2835
+Arnfinn	2823
+Patrick	2797
+Endre	2793
+Jonny	2758
+Dagfinn	2748
+Tomas	2736
+Trym	2720
+Magnar	2678
+Oddbjørn	2652
+Mikkel	2643
+Cato	2629
+Harry	2611
+Kasper	2598
+Julian	2588
+Ketil	2578
+Adam	2566
+Oscar	2564
+Jacob	2564
+Filip	2547
+Mikael	2521
+Sivert	2502
+Kent	2462
+Haakon	2461
+Leon	2457
+Lucas	2440
+Ulf	2437
+Olaf	2427
+Jesper	2417
+Mohamed	2404
+Krzysztof	2395
+Piotr	2380
+Nicolai	2375
+Edvard	2370
+Lukas	2352
+Are	2326
+Yngve	2320
+Amund	2305
+Bent	2265
+Georg	2259
+Philip	2236
+Gabriel	2218
+Dan	2216
+Theodor	2214
+Tomasz	2213
+Brage	2187
+Dennis	2177
+Jo	2132
+Iver	2130
+Preben	2127
+Mohammed	2114
+Ahmed	2101
+Victor	2082
+Henry	2070
+Bjarte	2069
+Odin	2064
+Åsmund	2049
+Eskil	2035
+Otto	1979
+Sigbjørn	1978
+Gaute	1952
+Bendik	1929
+Ingar	1918
+Ottar	1914
+Stefan	1877
+Børge	1873
+Asle	1872
+Anton	1872
+Viktor	1870
+Karsten	1856
+Niklas	1788
+Fred	1782
+Bengt	1756
+Gustav	1753
+Ulrik	1752
+Sveinung	1746
+Andrzej	1737
+Pawel	1705
+Marcin	1698
+Tony	1696
+Alfred	1648
+Sten	1641
+Vebjørn	1616
+Jarl	1612
+Snorre	1608
+Ernst	1577
+Jim	1575
+Hallvard	1562
+Tord	1561
+Rasmus	1558
+Thorbjørn	1551
+Ken	1530
+Marek	1526
+Samuel	1523
+Aage	1523
+Vegar	1505
+Sigve	1505
+Oddmund	1505
+Felix	1501
+Casper	1495
+Halvard	1491
+August	1484
+Axel	1467
+Remi	1465
+Grzegorz	1460
+Viggo	1444
+Ludvig	1432
+Leo	1431
+Ivan	1423
+Idar	1413
+Arthur	1404
+Aron	1401
+Chris	1400
+Leander	1399
+Torleif	1371
+Edvin	1361
+Joar	1358
+Ingvar	1344
+Mariusz	1343
+Thore	1342
+Michal	1335
+Liam	1329
+Gjermund	1324
+Max	1310
+Leiv	1304
+Gard	1296
+Hugo	1294
+Sjur	1285
+Freddy	1274
+Albert	1273
+Muhammad	1268
+Aslak	1267
+Dariusz	1266
+Theo	1262
+Lukasz	1250
+Kjartan	1249
+Gisle	1233
+Didrik	1215
+Svenn	1205
+Linus	1188
+Tim	1170
+Asgeir	1157
+Matias	1140
+Gøran	1139
+Torfinn	1128
+Kolbjørn	1125
+Arnstein	1111
+Nicholas	1098
+Jan-erik	1095
+Gudmund	1086
+Ronald	1077
+Konrad	1075
+Eric	1066
+Jone	1062
+Øistein	1060
+Birk	1058
+Omar	1055
+Børre	1043
+Hassan	1037
+Artur	1027
+Rafal	1026
+Edgar	1022
+Arnold	1020
+Jacek	1019
+Ibrahim	1017
+Fabian	1002
+Ådne	1001
+Svend	980
+Agnar	964
+Paal	957
+Brede	955
+Hallgeir	949
+Kyrre	933
+Yngvar	924
+Heine	918
+Mikal	915
+Wojciech	912
+Zbigniew	905
+Thorleif	888
+Teodor	888
+Tarjei	888
+Kay	870
+Torjus	866
+Ludvik	863
+Jaroslaw	862
+Erland	861
+Klaus	858
+Mustafa	855
+Kristen	853
+Jøran	853
+Jack	851
+Vemund	849
+Jonatan	847
+Rene	839
+Slawomir	834
+Ask	826
+Karstein	821
+Storm	804
+Abdul	801
+Wilhelm	799
+Bo	773
+Nicolay	771
+Krister	764
+Ahmad	759
+Ingvald	755
+Amir	753
+Eilif	748
+Matheo	746
+Oddgeir	737
+Miroslaw	735
+Bernhard	734
+Guttorm	716
+Werner	712
+Hermann	712
+Brian	712
+Jakub	711
+Jose	706
+James	701
+Sturla	689
+Roman	688
+Viljar	687
+Nicklas	686
+Maciej	681
+Patrik	677
+Arnulf	677
+Stanislaw	676
+Edward	668
+Ragnvald	663
+Kaare	661
+Nicolas	658
+Charles	658
+Norvald	652
+Brynjar	652
+Morgan	651
+Mattis	638
+Toralf	637
+Tage	637
+Niels	632
+Janusz	632
+Mark	628
+Alex	622
+Ingolf	620
+Torgrim	617
+Njål	612
+Allan	611
+Torkel	609
+Jimmy	605
+Jahn	605
+Rolv	602
+Abdi	595
+Kamil	592
+Edmund	592
+Mateusz	588
+Alan	585
+Eldar	583
+Carsten	582
+Walter	579
+Said	573
+Abdirahman	567
+Phillip	565
+Przemyslaw	560
+Marco	559
+Josef	559
+Andrew	559
+Fritz	550
+Steven	546
+Arkadiusz	543
+Hjalmar	542
+Stephen	541
+Tron	540
+Syver	540
+Jerzy	540
+Damian	538
+Waldemar	531
+Hilmar	531
+Claus	530
+Juan	523
+Nathaniel	522
+Ismail	522
+Jørund	520
+Rudi	517
+Rikard	510
+Håvar	509
+Malvin	508
+Stephan	503
+Carlos	503
+Lennart	502
+Levi	501
+Frederik	500
+Dawid	500
+Lars-erik	499
+Torleiv	497
+Ian	495
+Jozef	494
+Mehmet	490
+Ben	489
+Mario	488
+Thorstein	486
+Søren	485
+Ryszard	484
+Torger	482
+Khalid	482
+Elling	478
+Villy	475
+Sølve	471
+Mindaugas	470
+Jann	467
+Scott	465
+Hussein	465
+Luis	464
+Hermod	464
+Darius	464
+Leonard	463
+Bror	460
+Bastian	460
+Julius	454
+Sean	453
+Adnan	451
+Joel	450
+Abdullah	449
+Torje	446
+Abdullahi	445
+Ferdinand	444
+Gerhard	441
+Ole-martin	439
+Wiggo	438
+Fridtjof	438
+Hamza	436
+Mattias	435
+Eskild	435
+Torben	432
+Osman	428
+Joseph	428
+Syed	425
+Anthony	421
+Hasan	420
+Olve	419
+Antonio	418
+Sture	417
+Niclas	416
+Andrius	415
+Leszek	411
+Ørnulf	408
+Thorvald	408
+Radoslaw	407
+Karol	407
+Wieslaw	405
+Olai	405
+Vincent	404
+Jean	402
+Gunvald	400
+Eigil	396
+Esben	395
+Baard	395
+Remy	394
+Eyvind	394
+Oddvin	392
+Mons	389
+Tadeusz	388
+Yusuf	385
+Samir	385
+George	384
+Vladimir	383
+Marian	383
+Steve	381
+Ingebrigt	379
+Bartosz	378
+Rudolf	374
+Bogdan	374
+Patryk	372
+Igor	372
+Joacim	371
+Johann	370
+Hans-petter	370
+Hogne	369
+Ingve	365
+Alv	364
+Nikolas	363
+Eilert	362
+Arian	358
+Alvin	357
+Kaj	356
+Ansgar	354
+Lauritz	351
+Holger	347
+Ole-kristian	344
+Eystein	344
+Rino	343
+Torkil	342
+Osvald	342
+Haldor	342
+Torvald	338
+Kim-andre	337
+Ronnie	336
+Bilal	336
+Marcel	335
+Thanh	329
+Mahamed	327
+Kacper	327
+Andres	326
+Milan	325
+Colin	325
+Arturas	325
+Martinus	323
+Emilian	323
+Dominik	322
+Flemming	321
+Denis	321
+Laurits	316
+Fillip	315
+Aasmund	315
+Tom-erik	311
+Severin	310
+Hamid	310
+Gjert	310
+Tonny	309
+Brynjulf	309
+Tarald	308
+Saulius	308
+Sigvald	307
+Hallstein	307
+Sam	306
+Szymon	304
+Svein-erik	304
+Halfdan	304
+Torkild	303
+Ahmet	303
+Gorm	302
+Matthew	300
+Fredrick	300
+Normann	298
+Maximilian	295
+Kennet	295
+Jamal	295
+Bartlomiej	294
+Imre	292
+Vytautas	288
+Per-arne	288
+Narve	288
+Tor-erik	287
+Marko	286
+Tristan	285
+Skjalg	285
+Benny	283
+Bjørn-erik	280
+Kestutis	278
+Kato	278
+Arunas	278
+Manuel	277
+Louis	277
+Krystian	277
+Jarand	276
+Henryk	276
+Nikolay	275
+Minh	275
+Janis	274
+Sami	273
+Gudbrand	273
+Jomar	272
+Jardar	272
+Frits	271
+Edwin	271
+Borgar	270
+Jorge	268
+Annar	268
+Marvin	267
+Jonn	265
+Sigfred	263
+Mantas	263
+Asmund	263
+Edin	262
+Bertil	262
+Kazimierz	261
+Amin	261
+Matthias	260
+Isac	258
+Mohamad	256
+Rafael	255
+Aaron	254
+Emrik	252
+Muhammed	251
+Tor-arne	250
+Loke	249
+Ireneusz	248
+Ole-christian	246
+Torodd	245
+Ingmar	245
+Donatas	245
+Bjørge	245
+Imran	243
+Frithjof	243
+Reza	242
+Evald	242
+Cornelius	242
+Conrad	242
+Roland	241
+Melvin	241
+Jeppe	241
+Jørg	240
+Francisco	240
+Yasin	239
+Van	239
+Mehdi	239
+Mathis	237
+Elliot	237
+Dani	237
+Balder	237
+Ole-petter	235
+Oddleif	235
+Mahmoud	235
+Nerijus	234
+Miguel	234
+Isaac	234
+Timothy	232
+Lorentz	232
+Sylwester	231
+Emanuel	231
+Emre	230
+Emir	230
+Egidijus	230
+Claes	230
+Troy	228
+Ted	228
+Pedro	227
+Audrius	227
+Luca	226
+Emmanuel	225
+Rainer	224
+Karim	224
+Eddie	224
+Abraham	224
+Thormod	223
+Hauk	223
+Christen	222
+Arman	222
+Linas	221
+Cristian	221
+Wiktor	220
+Vilhelm	220
+Per-erik	220
+Pavel	220
+Aleksandar	219
+Gert	216
+Joshua	215
+Ari	215
+Abbas	215
+Norbert	214
+Noa	213
+Glen	213
+Ole-jørgen	212
+Boguslaw	212
+Sigvart	211
+Thoralf	210
+Kornelius	210
+Usman	209
+Arnljot	208
+Jonah	207
+Haavard	206
+Widar	205
+Rolandas	205
+Ricardo	204
+Ralf	204
+Mahad	204
+Frans	204
+Mika	203
+Kenny	203
+Helmer	203
+Goran	203
+Tønnes	202
+Steffan	202
+Øyvin	200
+Mike	200
