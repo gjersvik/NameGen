@@ -1,26 +1,34 @@
+library namegen;
+
 import 'boy.dart';
 import 'girl.dart';
 import 'lastname.dart';
+
 import 'dart:math';
 
-String getRandom(Map names,int sum){
-  var random = new Random();
-  var rand = random.nextInt(sum);
-  var name;
+class NameGen{
+  var _random;
   
-  names.forEach((n,v) {
-    if (rand >= 0) {
-      name = n;
-    }
-    rand -= v;
-  });
+  NameGen([seed]){
+    _random = new Random(seed);
+  }
   
-  return name;
-}
-
-main(){
-  var boyname = getRandom(boy, boy_length);
-  var girlname = getRandom(girl, girl_length);
-  var lastname = getRandom(last, last_length);
-  print('$boyname and $girlname $lastname');
+  String gender() => _random.nextBool() ? 'boy' : 'girl';
+  String name(gender) => gender == 'boy' ? boyName() : girlName();
+  String boyName() => '${_name(boy,boy_length)} ${_name(last,last_length)}';
+  String girlName() => '${_name(girl,girl_length)} ${_name(last,last_length)}';
+  
+  String _name(Map names,int sum) {
+    var rand = _random.nextInt(sum);
+    var name;
+    
+    names.forEach((n,v) {
+      if (rand >= 0) {
+        name = n;
+      }
+      rand -= v;
+    });
+    
+    return name;
+  }
 }
