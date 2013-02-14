@@ -1,0 +1,31 @@
+body{
+  background-color: #FAF5FC;
+  color: #131114;
+  font-size: 18px;
+}
+
+h1{
+  font-size: 3em;
+  text-align: center;
+}
+
+#text {
+    font-size: 2em;
+    border-style: solid;
+    border-width: 0.1em;
+    border-radius: 1em;
+    text-align: center;
+    margin: auto;
+    width: 10em;
+    padding: 1em;
+
+    background-color: #7166E8;
+    color: #0F0D1F;
+    border-color: #0F0D1F;
+}
+
+#text.girl {
+    background-color: #ED3EEA;
+    color: #140514;
+    border-color: #140514;
+}

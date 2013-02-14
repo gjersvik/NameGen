@@ -10,7 +10,7 @@ main(){
   updateText(gender){
     text.classes
     ..clear()
-    ..add('gender');
+    ..add(gender);
     text.text = namegen.name(gender);
   }
   
