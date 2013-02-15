@@ -1,29 +1,29 @@
 <!DOCTYPE html>
 
 <html>
-  <head>
-    <meta charset='utf-8'> 
+<head>
+    <meta charset='utf-8'>
     <title>Navn Generator</title>
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700|Shadows+Into+Light' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="main.css">
-  </head>
- 
-  <body>
-    <h1>Navn Generator</h1>
-    <p id="text">Generere navn...</p>
-    <p id="buttons"><button id="name">Navn</button><button id="girl">Jentenavn</button><button id="boy">Guttenavn</button></p>
-    <p>
-        Hvis du trykker på en av knappene over så blir det generert et nytt tilfeldig navn.
-        Navnene blir generert med den samme fordeling som i den norske befolkning.
-        Data er henta fra <a href="http://www.ssb.no">Statistisk Sentral Byrå</a> og linker til tabeller jeg har brukt er her:
-        <a href="http://www.ssb.no/navn/fornavn-kvinner-100.html">Jentenavn</a>,  <a href="http://www.ssb.no/navn/fornavn-menn-100.html">Guttenavn</a> og <a href="http://www.ssb.no/navn/alf/main.html">Etternavn</a>.
-    </p>
-    <p>
-        Dessverre har den et par svakheter.
-        Den kan kun generere navn som her to navn så mitt navn Ole Martin Gjersvik vil aldri bli generert.
-        Siden <a href="http://www.ssb.no">Statistisk Sentral Byrå</a> viser kun data for navn som har flere enn 200 personer så blir det kun genert vanlige navn.</p>
-    <p>Laget av Ole Martin Gjersvik. <a href="https://github.com/gjersvik/NameGen">Trykk her for kildekode.</a></p>
-    <script type="application/dart" src="index.dart"></script>
-    <script src="packages/browser/dart.js"></script>
-  </body>
+</head>
+
+<body>
+<h1>Navn Generator</h1>
+<p id="text">Generere navn...</p>
+<p id="buttons"><button id="name">Navn</button><button id="girl">Jentenavn</button><button id="boy">Guttenavn</button></p>
+<p>
+    Hvis du trykker på en av knappene over så blir det generert et nytt tilfeldig navn.
+    Navnene blir generert med den samme fordelingen som i den norske befolkning.
+    Data er hentet fra <a href="http://www.ssb.no">Statistisk Sentral Byrå</a> og linkene til de tabellene jeg bruker er her:
+    <a href="http://www.ssb.no/navn/fornavn-kvinner-100.html">Jentenavn</a>, <a href="http://www.ssb.no/navn/fornavn-menn-100.html">Guttenavn</a> og <a href="http://www.ssb.no/navn/alf/main.html">Etternavn</a>.
+</p>
+<p>
+    Dessverre har den et par svakheter.
+    Den kan bare generere navn som her to navn, så mitt navn Ole Martin Gjersvik vil aldri bli generert.
+    Siden <a href="http://www.ssb.no">Statistisk Sentral Byrå</a> data for navn som flere enn 200 personer har, så blir det kun generert mye brukte navn.</p>
+<p>Laget av Ole Martin Gjersvik. <a href="https://github.com/gjersvik/NameGen">Trykk her for kildekode.</a></p>
+<script type="application/dart" src="index.dart"></script>
+<script src="packages/browser/dart.js"></script>
+</body>
 </html>
